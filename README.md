@@ -1,4 +1,5 @@
 # Image_Captionner
+0/ Download the data from here : https://www.kaggle.com/aladdinpersson/flickr8kimagescaptions
 
 1/ Open Vscode 
 
